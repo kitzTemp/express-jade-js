@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "deth's",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jade": "^1.11.0"
+  }
 }
